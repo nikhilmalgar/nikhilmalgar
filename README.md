@@ -11,7 +11,15 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nikhilmalgar&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=nikhilmalgar&theme=highcontrast&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilmalgar&theme=highcontrast&layout=compact&hide=jupyter%20notebook,shell,batch&langs_count=8)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)
+![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
+
 
 
 ### ✍️ Random Dev Quote
