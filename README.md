@@ -1,6 +1,15 @@
 ## Hi there 👋 I'm Nikhil Malgar
 # 💫 About Me:
-🎓 4th-year B.Tech student in Computer Science (AI & ML) at BLDEA College of Engineering<br><br>🤖 Passionate about Artificial Intelligence, Machine Learning, and Full-Stack Web Development<br><br>🧠 Skilled in Python, Data Structures & Algorithms (DSA), and Object-Oriented Programming (OOP)<br>🌐 Experienced with platforms like Google Colab, VS Code, and GitHub<br><br>🌟 Currently exploring AI-powered image processing and LLMs<br><br>📚 Love building real-world solutions and continuously learning new technologies
+🎓 2026 Computer Science Engineering (AI & ML) Graduate
+
+🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Generative AI.
+
+🐍 Building intelligent applications with Python, TensorFlow, Scikit-learn, OpenCV, and LangChain.
+
+🧠 Exploring Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, NLP, and Multimodal AI.
+
+🚀 Committed to building real-world AI solutions, learning continuously, and contributing to impactful innovations.
+
 
 
 ## 🌐 Socials:
